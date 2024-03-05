@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+ 
+.footer {
+    font-family: 'Poppins', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  display: flex;
+
+  background-color: #333;
+  /* margin-top: 500px; */
+  padding: 50px 50px; 
+   
+}
+.footer img {
+    margin-right: 20px;
+    height: 200px;
+}
+.foot{
+    color: #fff;
+    font-size: 15px;
+    padding-bottom: 20px ;
+}

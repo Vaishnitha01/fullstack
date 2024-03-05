@@ -1,0 +1,10 @@
+.account-container {
+    
+     justify-content: center;
+    text-align: center; /* Center align content */
+  }
+  
+  .user-details {
+    margin-top: 210px; /* Add spacing between user details */
+  }
+  
